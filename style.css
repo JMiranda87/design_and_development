@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    width: 1440px;
+    height: 900px;
+    padding: 164px 165px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card1 {
+    border-radius: 10px;
+}
